@@ -2,4 +2,6 @@
 Here im using the Adam optimizer instead of the LBFGS optimizer.
 
 # Results
-![Drag Racing](bear.png)
+![](bear.png)
+![](starry.png)
+![](grizzly.png)
