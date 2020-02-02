@@ -2,6 +2,6 @@
 Here im using the Adam optimizer instead of the LBFGS optimizer.
 
 # Results
-![](bear.png)
-![](starry.png)
-![](grizzly.png)
+![](bear.jpg)
+![](starry.jpg)
+![](grizzly.jpg)
